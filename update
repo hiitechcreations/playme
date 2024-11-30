@@ -1,0 +1,10 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "New Update Found",
+  "Description": "click to update for updates to new version",
+  "MainTextButton": "Update",
+  "Cancelable": "false",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://www.google.com",
+  "Version": "1.0"
+}
